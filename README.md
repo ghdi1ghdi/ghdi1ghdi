@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ghdi1ghdi
-- 👀 I’m interested in ... python, Machine learning
-- 🌱 I’m currently learning ... python, html, css, javascript, java, C
+- 👀 I’m interested in ... python, Java, Machine learning, Deep learning, Grid Computing
+- 🌱 I’m currently learning ... python, html, css, javascript, java, C, Fiber
 - 💞️ I’m looking to collaborate on ... not now
 - 📫 How to reach me ... 20224112@o365.hanbat.ac.kr
 
