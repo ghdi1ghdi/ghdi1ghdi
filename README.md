@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ghdi1ghdi
-- 👀 I’m interested in ... python, Java, Machine learning, Deep learning, Grid Computing, Dart, Flutter
+- 👀 I’m interested in ... python, Java, Machine learning, Deep learning, Web3, Dart, Flutter
 - 🌱 I’m currently learning ... python, html, css, javascript, java, C, Fiber, Node.js
 - 💞️ I’m looking to collaborate on ... not now
 - 📫 How to reach me ... ghdi1ghdi@hanyang.ac.kr
