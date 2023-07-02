@@ -41,6 +41,9 @@ CodeWorksTM , DeepXE, HyperNova And AIR 2.0
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghdi1ghdi&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
   </a>
   <a href="s">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdi1ghdi"/>
+  </a>
+  <a href="s">
     <img src="https://github-readme-stats.vercel.app/api?username=ghdi1ghdi&theme=tokyonight&show_icons=true" width="42%" />
   </a>
   </p>
