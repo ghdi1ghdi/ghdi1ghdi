@@ -71,7 +71,7 @@ Hello, I'm JeongHo Lee, an freshmen undergraduate student at Hanyang University 
 - 🏝️ 2023 7개 대학 연합 로컬 창업 노마드 캠프 한양대학교 ERICA 대표 참가 및 수료 고려대, 한양대 ERICA, 울산대, 강원대, 제주대, 제주한라대, 제주관광대 LINK 3.0 사업단 수료
 - 🏢 2023 한양대학교 ERICA 창업동아리 및 SW창업동아리 HYperNova 공동 대표
 - 🧑🏻‍💻 2023 한국정보과학회 KCC2023 학부생/주니어 논문 경진 대회 논문 등재 (Privacy Guard)
-- 🤖 2023 HYAI 한양대학교 인공지능학회 HYAI 학술부장
+- 🤖 2023 한양대학교 인공지능학회 HYAI 학술부장
 - 🧑🏻‍💻 2023 한양대학교 ERICA SW창업동아리 연합부회장
 
 [2022]
