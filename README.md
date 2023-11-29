@@ -44,9 +44,11 @@ Hello, I'm JeongHo Lee, an freshmen undergraduate student at Hanyang University 
 [2023]
 - 🥇 2023 국민 안전 발명 챌린지 대국민 부분 경찰청 과제 최우수상 특허청장상 (1위)
 - 🥈 2023 제 10회 대한민국 SW 융합 해커톤 자유주제 부분 우수상 세종특별자치시장상 (공동 2위) (서울 지역 대표)
+- 🥈 2023 한양대학교 ERICA 창업 경진 대회 학생부 우수상 한양대학교 ERICA LINC 3.0 사업단장상 (2위)
 - 🥈 2023 제 11회 SW 창업 아이디어톤 최우수상 한양대학교 총장상 (2위)
 - 🎖 2023 Stand by you Makeaton 수료 및 장려상 (주) 공생 대표이사 및 한밭대학교 대학혁신단장상 (4위)
 - 🎖️ 2023 - 1학기 SID AUDITION 원페이퍼 창업 아이디어 경진대회 SID상 한양대학교 ERICA 창업교육센터장상 (5위)
+- 🎖️ 2023 한양대학교 ERICA SW창업동아리 우수 SW창업동아리 선정
 
 
 [2022]
