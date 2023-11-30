@@ -68,6 +68,7 @@ Hello, I'm JeongHo Lee, an freshmen undergraduate student at Hanyang University 
 ## 🧑🏻‍💻 career
 
 [2023]
+- 👮🏻‍♀ 2023.11.21 대한민국 경찰청과 AIRCCTV 지식재산권 거래
 - 🧑🏻‍💻 2023 GLITCH HACKATHON 본선 진출
 - 💰 2023 한양대학교 ERICA 응원한대장학_자기개발분야 (공모전) 장학 대상자
 - 🧑🏻‍💻 2023 SW중심대학 공동해커톤 한양대학교 ERICA 대표 참가 및 수료 (사)소프트웨어중심대학협의회장
