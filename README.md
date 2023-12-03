@@ -1,11 +1,18 @@
 # 👋 Hi, I’m @ghdi1ghdi
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghdi1ghdi%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+# Connection Makes Perfection.
+
+## 👤 About-me statement (한줄 소개)
+세상의 공백을 연결로 채우다, Team Builder Alliance AIR 2.0을 운영하는 SocialSync Programmer 이정호입니다.
+
+## 📍 Cognitive map (인지 지도)
+![image](https://github.com/ghdi1ghdi/ghdi1ghdi/assets/73730434/e6e527b6-5220-4037-a402-8c08255e4509)
+
+
+
 # Cool head, but Warm heart.
-
-## 👤 About ME
-Hello, I'm JeongHo Lee, an freshmen undergraduate student at Hanyang University ERICA in South Korea.
-
+## 📋 Resume (이력서)
 ## 👀 MY Tech Stack ... 
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
