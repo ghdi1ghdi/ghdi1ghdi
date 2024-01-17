@@ -88,6 +88,7 @@
 
 [NOW]
 - 🧑🏻‍💻 2023/24 한양대학교 ERICA SW창업동아리 연합부회장
+- 🏢 (주)신성ICT 연구원
 - 📣 2024 11기 한양대학교 ERICA 휴아로 전공알림단
 - 💻 2024 4기 LG Aimers
 - 💥 HyperNova SW창업동아리 대표
@@ -102,6 +103,7 @@
 - 🤖 2023.12.13 한양대학교 ERICA 인공지능학회 HYAI 자율형 스터디 HYSTUDY 성과 발표회 심사위원 및 성료
 - 🧑🏻‍💻 2023 GLITCH HACKATHON 본선 진출
 - 💰 2023 한양대학교 ERICA 응원한대장학_자기개발분야 (공모전) 장학 대상자
+- 🏢 (주)신성ICT 수습 연구원
 - 🧑🏻‍💻 2023 SW중심대학 공동해커톤 한양대학교 ERICA 대표 참가 및 수료 (사)소프트웨어중심대학협의회장
 - 🏢 2023 대학연합창업캠프 한양대학교 ERICA 대표 참가 및 수료 성균관대, 중앙대, 경희대, 동국대, 한양대 ERICA, 아주대, 한국 공학대, 가톨릭대 LINK 3.0 사업단 수료
 - 🏝️ 2023 7개 대학 연합 로컬 창업 노마드 캠프 한양대학교 ERICA 대표 참가 및 수료 고려대, 한양대 ERICA, 울산대, 강원대, 제주대, 제주한라대, 제주관광대 LINK 3.0 사업단 수료
@@ -123,7 +125,7 @@
 ## 🏢 This is My Team ... 
 <div align= "center">
 <br>
-CodeWorksTM , DeepXE, HYperNova, Singularity, DanKan And AIR 2.0
+Singularity, DanKan, CodeWorksTM , DeepXE, HYperNova And AIR 2.0
 </br>
 </div>
 
