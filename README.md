@@ -91,7 +91,8 @@
 - 📣 2024 11기 한양대학교 ERICA 휴아로 전공알림단
 - 💻 2024 4기 LG Aimers
 - 💥 HyperNova SW창업동아리 대표
-- 🏘️ 단칸 SW창업동아리 개발자
+- 🧑🏻‍💻 Singularity SW창업동아리 Swift 개발자
+- 🏘️ 단칸 SW창업동아리 front 개발자
 - 🤖 2023 한양대학교 인공지능학회 HYAI 학술부장
 
 [2023]
@@ -122,7 +123,7 @@
 ## 🏢 This is My Team ... 
 <div align= "center">
 <br>
-CodeWorksTM , DeepXE, HYperNova And AIR 2.0
+CodeWorksTM , DeepXE, HYperNova, Singularity, DanKan And AIR 2.0
 </br>
 </div>
 
@@ -137,6 +138,7 @@ CodeWorksTM , DeepXE, HYperNova And AIR 2.0
 <div align= "center">
   <a href="https://instagram.com/22_jung_ho?igshid=NGExMmI2YTkyZg==" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=ghdi1ghdi@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/ghdi1ghdi@hanyang.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=ghdi1ghdi@integrity.ne.kr" target="_blank"><img src="https://img.shields.io/badge/ghdi1ghdi@integrity.ne.kr-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
 </div>
 <br>
 
