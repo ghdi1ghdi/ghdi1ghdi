@@ -4,7 +4,7 @@
 # Connection Makes Perfection.
 
 ## 👤 About-me statement (한줄 소개)
-세상의 공백을 연결로 채우다, Team Builder Alliance AIR 2.0을 운영하는 SocialSync Programmer 이정호입니다.
+세상의 공백을 연결로 채우는 이정호입니다.
 
 ## 🖥️ Personal logo (개인 로고)
 ![image](https://github.com/ghdi1ghdi/ghdi1ghdi/assets/73730434/7b941f8f-ecb4-4b11-8c8d-8c515a4e3dfd)
@@ -16,7 +16,7 @@
 
 "세상의 공백"은 사회에서 소외된, 어려움을 겪는 사람들을 의미하고 이를 해결하기 위해 저의 강점인 사람들 간의 "연결"을 통해 해결하겠다는 의미를 담고 있습니다.
 
-또한 이러한 저의 결심을 실천하기 위해 이러한 팀을 만드는 "Team Builder Alliance AIR 2.0"을 운영한다는 의미를 포함하였습니다.
+또한 이러한 저의 결심을 실천하기 위해 이러한 팀을 만드는 "Team Builder Alliance AIR"을 운영한다는 의미를 포함하였습니다.
 
 그리고 "SocialSync Programmer 이정호입니다."는 사회의 각 계층을 이어주는 서비스의 개발을 통해 사회적 동기화를 통해 모두가 잘 사는 세상을 만들어내는 프로그래머라는 의미입니다. 
 
@@ -87,10 +87,10 @@
 ## 🧑🏻‍💻 career
 
 [NOW]
+- 〇 Integrity 창업동아리, SW창업동아리 대표
 - 🧑🏻‍💻 2023/24 한양대학교 ERICA SW창업동아리 연합부회장
 - 🏢 (주)신성ICT 연구원
 - 📣 2024 11기 한양대학교 ERICA 휴아로 전공알림단
-- 💥 HyperNova SW창업동아리 대표
 - 🧑🏻‍💻 Singularity SW창업동아리 Swift 개발자
 - 🏘️ 단칸 SW창업동아리 front 개발자
 - 🤖 2023 한양대학교 인공지능학회 HYAI 학술부장
