@@ -88,7 +88,6 @@
 
 [NOW]
 - 🧑🏻‍💻 2023/24 한양대학교 ERICA SW창업동아리 연합부회장
-- 🏢 (주)신성ICT 연구원
 - 📣 2024 11기 한양대학교 ERICA 휴아로 전공알림단
 - 🧑🏻‍💻 Singularity SW창업동아리 Swift 개발자
 - ⭕️ Integrity 창업동아리, SW창업동아리 대표
