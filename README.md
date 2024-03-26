@@ -87,6 +87,7 @@
 ## 🧑🏻‍💻 career
 
 [NOW]
+- 🤖 한양대학교 ERICA 인공지능학회 HYAI 학회장
 - 🧑🏻‍💻 2023/24 한양대학교 ERICA SW창업동아리 연합부회장
 - 📣 2024 11기 한양대학교 ERICA 휴아로 전공알림단
 - 🧑🏻‍💻 Singularity SW창업동아리 Swift 개발자
