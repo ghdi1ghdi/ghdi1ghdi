@@ -127,7 +127,7 @@
 ## 🏢 This is My Team ... 
 <div align= "center">
 <br>
-Singularity, DanKan, CodeWorksTM , DeepXE, HYperNova And AIR 2.0
+Singularity, DanKan, CodeWorksTM , DeepXE, AIR And Integrity
 </br>
 </div>
 
