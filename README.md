@@ -87,6 +87,7 @@
 ## 🧑🏻‍💻 career
 
 [NOW]
+- 🚛 NGL Transportation - Mobile (Swift)
 - 🤖 한양대학교 ERICA 인공지능학회 HYAI 학회장
 - 🧑🏻‍💻 2023/24 한양대학교 ERICA SW창업동아리 연합부회장
 - 🍳 제 15기 한국장학재단 사회리더 대학생 멘토링 멘티 - (유)그룹세브코리아
