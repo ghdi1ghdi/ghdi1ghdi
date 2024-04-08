@@ -3,27 +3,6 @@
 
 # Connection Makes Perfection.
 
-## 👤 About-me statement (한줄 소개)
-세상의 공백을 연결로 채우는 이정호입니다.
-
-## 🖥️ Personal logo (개인 로고)
-![image](https://github.com/ghdi1ghdi/ghdi1ghdi/assets/73730434/7b941f8f-ecb4-4b11-8c8d-8c515a4e3dfd)
-
-## 📍 Cognitive map (인지 지도)
-![image](https://github.com/ghdi1ghdi/ghdi1ghdi/assets/73730434/e6e527b6-5220-4037-a402-8c08255e4509)
-
-해당 인지 지도를 바탕으로 연결을 통한 차가운 이성으로 판단하고 따뜻한 가슴으로 사회를 위해 노력하겠다는 의미를 담는 한줄 소개를 작성했습니다.
-
-"세상의 공백"은 사회에서 소외된, 어려움을 겪는 사람들을 의미하고 이를 해결하기 위해 저의 강점인 사람들 간의 "연결"을 통해 해결하겠다는 의미를 담고 있습니다.
-
-또한 이러한 저의 결심을 실천하기 위해 이러한 팀을 만드는 "Team Builder Alliance AIR"을 운영한다는 의미를 포함하였습니다.
-
-그리고 "SocialSync Programmer 이정호입니다."는 사회의 각 계층을 이어주는 서비스의 개발을 통해 사회적 동기화를 통해 모두가 잘 사는 세상을 만들어내는 프로그래머라는 의미입니다. 
-
-개인 로고 (SOCIAL SYNC)는 중앙의 원이 세상의 공백을 의미하고 이를 보완하기 위해 여러 삼각형(여러 사회 계층)들을 연결하여 채우고 있는 모습을 의미합니다.
-
-
-## 📋 Resume (이력서)
 ## 👀 MY Tech Stack ... 
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
