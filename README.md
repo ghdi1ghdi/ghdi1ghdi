@@ -73,7 +73,7 @@
 - 🍳 제 15기 한국장학재단 사회리더 대학생 멘토링 멘티 - (유)그룹세브코리아
 - 📣 2024 11기 한양대학교 ERICA 휴아로 전공알림단
 - ⭕️ Integrity 창업동아리, SW창업동아리 대표
-- 🏘️ DANKAN SW창업동아리 front 개발자
+- 🏘️ DANKAN - Developer (Frontend)
 
 [2024]
 - 💻 2024 4기 LG Aimers 수료 178위/844팀 (69.7점)
