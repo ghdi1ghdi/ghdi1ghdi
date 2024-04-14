@@ -121,9 +121,9 @@ Singularity, DanKan, CodeWorksTM , DeepXE, AIR And Integrity
 <br> 
 <div align= "center">
   <a href="https://instagram.com/22_jung_ho?igshid=NGExMmI2YTkyZg==" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jay@integrity.ne.kr" target="_blank"><img src="https://img.shields.io/badge/jay@integrity.ne.kr-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jeongho.l@ngltrans.net" target="_blank"><img src="https://img.shields.io/badge/jeongho.l@ngltrans.net-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jeongho.lee@hypernote.co.kr" target="_blank"><img src="https://img.shields.io/badge/jeongho.lee@hypernote.co.kr-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
-  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jeongho.l@integrity.ne.kr" target="_blank"><img src="https://img.shields.io/badge/jeongho.l@integrity.ne.kr-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=ghdi1ghdi@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/ghdi1ghdi@hanyang.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
 </div>
 <br>
