@@ -3,7 +3,7 @@
 
 # Connection Makes Perfection.
 
-[NOW]
+## 💼 My Job
 - 🚛 NGL Transportation - Mobile (Swift)
 - 🧑🏻‍💻 Singularity - Developer (Swift)
 - 🤖 한양대학교 ERICA 인공지능학회 HYAI 학회장
