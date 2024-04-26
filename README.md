@@ -3,6 +3,16 @@
 
 # Connection Makes Perfection.
 
+[NOW]
+- 🚛 NGL Transportation - Mobile (Swift)
+- 🧑🏻‍💻 Singularity - Developer (Swift)
+- 🤖 한양대학교 ERICA 인공지능학회 HYAI 학회장
+- ⭕️ Integrity 창업동아리, SW창업동아리 대표
+- 🧑🏻‍💻 2023/24 한양대학교 ERICA SW창업동아리 연합부회장
+- 🍳 제 15기 한국장학재단 사회리더 대학생 멘토링 멘티 팀장 - (유)그룹세브코리아
+- 📣 2024 11기 한양대학교 ERICA 휴아로 전공알림단
+- 🏘️ DANKAN - Developer (Frontend)
+
 ## 👀 MY Tech Stack ... 
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
@@ -64,16 +74,6 @@
 
 
 ## 🧑🏻‍💻 career
-
-[NOW]
-- 🚛 NGL Transportation - Mobile (Swift)
-- 🧑🏻‍💻 Singularity - Developer (Swift)
-- 🤖 한양대학교 ERICA 인공지능학회 HYAI 학회장
-- 🧑🏻‍💻 2023/24 한양대학교 ERICA SW창업동아리 연합부회장
-- 🍳 제 15기 한국장학재단 사회리더 대학생 멘토링 멘티 팀장 - (유)그룹세브코리아
-- 📣 2024 11기 한양대학교 ERICA 휴아로 전공알림단
-- ⭕️ Integrity 창업동아리, SW창업동아리 대표
-- 🏘️ DANKAN - Developer (Frontend)
 
 [2024]
 - 💻 2024 4기 LG Aimers 수료 178위/844팀 (69.7점)
