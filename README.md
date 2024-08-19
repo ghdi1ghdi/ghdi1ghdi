@@ -4,19 +4,21 @@
 # Connection Makes Perfection.
 
 ## 💼 My Job
-- 🚛 NGL Transportation - Mobile (Swift)
-- 🧑🏻‍💻 Singularity - Developer (Swift)
+
+- 🛠️ NuriLab 클라우드개발팀 - Pro (Frontend)
 - 🤖 한양대학교 ERICA 인공지능학회 HYAI 학회장
-- ⭕️ Integrity 창업동아리, SW창업동아리 대표
-- 🧑🏻‍💻 2023/24 한양대학교 ERICA SW창업동아리 연합부회장
-- 🍳 제 15기 한국장학재단 사회리더 대학생 멘토링 멘티 팀장 - (유)그룹세브코리아
 - 📣 2024 11기 한양대학교 ERICA 휴아로 전공알림단
+- 🧑🏻‍💻 2023/24 한양대학교 ERICA SW창업동아리 연합부회장
+- 🍳 제 15기 한국장학재단 사회리더 대학생 멘토링 멘티 팀장 - (유)그룹세브코리아 (Tefal)
+- 🧑🏻‍💻 Singularity - Developer (Swift)
+- ⭕️ Integrity 창업동아리, SW창업동아리 대표
 - 🏘️ DANKAN - Developer (Frontend)
 
 ## 👀 MY Tech Stack ... 
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/Go-74cedd?style=flat&logo=Go&logoColor=white">
 </div>
 <br>
 <div>
@@ -39,6 +41,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-01c180?style=flat&logo=Vue.js&logoColor=white">
+
 </div>
 <br>
 <div>
@@ -81,6 +85,7 @@
 ## 🧑🏻‍💻 career
 
 [2024]
+- 🚛 NGL Transportation - Mobile (Swift)
 - 💻 2024 4기 LG Aimers 수료 178위/844팀 (69.7점)
 
 [2023]
@@ -126,11 +131,12 @@ Singularity, DanKan, CodeWorksTM , DeepXE, AIR And Integrity
 <br> 
 <div align= "center">
   <a href="https://instagram.com/22_jung_ho?igshid=NGExMmI2YTkyZg==" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
-  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jeongho.l@ngltrans.net" target="_blank"><img src="https://img.shields.io/badge/jeongho.l@ngltrans.net-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
-  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jeongho.lee@hypernote.co.kr" target="_blank"><img src="https://img.shields.io/badge/jeongho.lee@hypernote.co.kr-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
-  <br>
-  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jay@integrity.ne.kr" target="_blank"><img src="https://img.shields.io/badge/jay@integrity.ne.kr-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
+<!--   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jeongho.l@ngltrans.net" target="_blank"><img src="https://img.shields.io/badge/jeongho.l@ngltrans.net-EA4335?style=flat&logo=Gmail&logoColor=white"></a> -->
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jhlee@nurilab.com" target="_blank"><img src="https://img.shields.io/badge/jhlee@nurilab.com-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=ghdi1ghdi@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/ghdi1ghdi@hanyang.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
+<!--   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jeongho.lee@hypernote.co.kr" target="_blank"><img src="https://img.shields.io/badge/jeongho.lee@hypernote.co.kr-EA4335?style=flat&logo=Gmail&logoColor=white"></a> -->
+  <br>
+<!--   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jay@integrity.ne.kr" target="_blank"><img src="https://img.shields.io/badge/jay@integrity.ne.kr-EA4335?style=flat&logo=Gmail&logoColor=white"></a> -->
 </div>
 <br>
 
