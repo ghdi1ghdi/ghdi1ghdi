@@ -10,9 +10,7 @@
 - 📣 2024 11기 한양대학교 ERICA 휴아로 전공알림단
 - 🧑🏻‍💻 2023/24 한양대학교 ERICA SW창업동아리 연합부회장
 - 🍳 제 15기 한국장학재단 사회리더 대학생 멘토링 멘티 팀장 - (유)그룹세브코리아 (Tefal)
-- 🧑🏻‍💻 Singularity - Developer (Swift)
 - ⭕️ Integrity 창업동아리, SW창업동아리 대표
-- 🏘️ DANKAN - Developer (Frontend)
 
 ## 👀 MY Tech Stack ... 
 <div>
@@ -56,7 +54,6 @@
 - 🎖️ 제 85주년 한양대학교 개교기념식 학생 공로상 한양대학교 총장상
 - 🎖️ 2024 - 1학기 SID AUDITION 원페이퍼 창업 아이디어 경진대회 SID상 한양대학교 ERICA 창업교육센터장상
 
-
 [2023]
 - 🥇 2023 국민 안전 발명 챌린지 대국민 부분 경찰청 과제 최우수상 특허청장상 (1위)
 - 🥈 2023 제 10회 대한민국 SW 융합 해커톤 자유주제 부분 우수상 세종특별자치시장상 (공동 2위) (서울 지역 대표)
@@ -85,9 +82,11 @@
 ## 🧑🏻‍💻 career
 
 [2024]
-- 🚛 NGL Transportation - Mobile (Swift)
+- 🚛 NGL Transportation - Mobile (Swift) (한양대학교 X NGL Transportatoin 산학연프로젝트 학부연구생)
+- 🧑🏻‍💻 Singularity - Developer (Swift)
 - 🏢 해동 창업 DCI 프로그램 - Dreamer 단계 선정 (Integrity)
 - 🏢 한양대학교 ERICA 창업동아리(SW창업동아리) Integrity 대표
+- 🏘️ DANKAN - Developer (Frontend)
 - 💰 2024-1 한양브레인(성적우수) 학비감면 장학 대상자
 - 💰 2024-2 한양대학교 ERICA 응원한대장학_취.창업활동 장학 대상자
 - 💻 2024 4기 LG Aimers 수료 178위/844팀 (69.7점)
