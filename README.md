@@ -8,7 +8,6 @@
 - 🛠️ NuriLab 클라우드개발팀 - Pro (Frontend)
 - 🤖 한양대학교 ERICA 인공지능학회 HYAI 학회장 (3기, 4기)
 - 📣 2024 11기 한양대학교 ERICA 휴아로 전공알림단
-- 🧑🏻‍💻 2023/24 한양대학교 ERICA SW창업동아리 연합부회장
 - 🍳 제 15기 한국장학재단 사회리더 대학생 멘토링 멘티 팀장 - (유)그룹세브코리아 (Tefal)
 - ⭕️ Integrity 창업동아리, SW창업동아리 대표
 
@@ -52,6 +51,7 @@
 
 [2024]
 - 🎖️ 제 85주년 한양대학교 개교기념식 학생 공로상 한양대학교 총장상
+- 🎖️ 2023 한양대학교 ERICA SW창업동아리 창업우수상 한양대학교 ERICA SW중심대학사업단장상
 - 🎖️ 2024 - 1학기 SID AUDITION 원페이퍼 창업 아이디어 경진대회 SID상 한양대학교 ERICA 창업교육센터장상
 
 [2023]
@@ -84,6 +84,7 @@
 [2024]
 - 🚛 NGL Transportation - Mobile (Swift) (한양대학교 X NGL Transportatoin 산학연프로젝트 학부연구생)
 - 🧑🏻‍💻 Singularity - Developer (Swift)
+- 🧑🏻‍💻 2023/24 한양대학교 ERICA SW창업동아리 연합부회장
 - 🏢 해동 창업 DCI 프로그램 - Dreamer 단계 선정 (Integrity)
 - 🏢 한양대학교 ERICA 창업동아리(SW창업동아리) Integrity 대표
 - 🏘️ DANKAN - Developer (Frontend)
