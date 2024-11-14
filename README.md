@@ -82,12 +82,11 @@
 
 [2024]
 - 🚛 NGL Transportation - Mobile (Swift) (한양대학교 X NGL Transportatoin 산학연프로젝트 학부연구생)
-- ⭕️ Integrity 창업동아리, SW창업동아리 대표
-- 🧑🏻‍💻 Singularity - Developer (Swift)
-- 🧑🏻‍💻 2023/24 한양대학교 ERICA SW창업동아리 연합부회장
+- ⭕️ Integrity - CEO (한양대학교 ERICA 창업동아리, SW창업동아리)
 - 🏢 해동 창업 DCI 프로그램 - Dreamer 단계 선정 (Integrity)
-- 🏢 한양대학교 ERICA 창업동아리(SW창업동아리) Integrity 대표
+- 🧑🏻‍💻 Singularity - Developer (Swift)
 - 🏘️ DANKAN - Developer (Frontend)
+- 🧑🏻‍💻 2023/24 한양대학교 ERICA SW창업동아리 연합부회장
 - 💰 2024-1 한양브레인(성적우수) 학비감면 장학 대상자
 - 💰 2024-2 한양대학교 ERICA 응원한대장학_취.창업활동 장학 대상자
 - 💻 2024 4기 LG Aimers 수료 178위/844팀 (69.7점)
