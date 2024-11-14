@@ -118,13 +118,6 @@
 - 🏫 2015.04 ~ 2016.02 도담초등학교 전교학생 부회장
 
 
-## 🏢 This is My Team ... 
-<div align= "center">
-<br>
-Singularity, DanKan, CodeWorksTM , DeepXE, AIR And Integrity
-</br>
-</div>
-
 ## 💞️ I’m looking to collaborate on ...
 <div align= "center">
  <br> 📞 010-2490-8383 Always
