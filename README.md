@@ -14,7 +14,6 @@
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/Go-74cedd?style=flat&logo=Go&logoColor=white">
 </div>
 <br>
 <div>
@@ -40,11 +39,11 @@
   <img src="https://img.shields.io/badge/Vue.js-01c180?style=flat&logo=Vue.js&logoColor=white">
 
 </div>
-<br>
+<!-- <br>
 <div>
 <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=Blockchain.com&logoColor=white">
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white">
-</div>
+</div> -->
 
 ## 🏆 Awards
 
@@ -84,6 +83,7 @@
 - 🚛 NGL Transportation - Mobile (Swift) (한양대학교 X NGL Transportatoin 산학연프로젝트 학부연구생)
 - ⭕️ Integrity - CEO (한양대학교 ERICA 창업동아리, SW창업동아리)
 - 🏢 해동 창업 DCI 프로그램 - Dreamer 단계 선정 (Integrity)
+- 🛠️ NuriLab - NTT 도코모향 본사 AskURL 솔루션 제안을 위해 아이폰용 앱 경쟁사 제품 테스트를 위한 일본 도쿄 현지 출장 (4일)
 - 🧑🏻‍💻 Singularity - Developer (Swift)
 - 🏘️ DANKAN - Developer (Frontend)
 - 🧑🏻‍💻 2023/24 한양대학교 ERICA SW창업동아리 연합부회장
