@@ -83,7 +83,7 @@
 - 🚛 NGL Transportation - Mobile (Swift) (한양대학교 X NGL Transportatoin 산학연프로젝트 학부연구생)
 - ⭕️ Integrity - CEO (한양대학교 ERICA 창업동아리, SW창업동아리)
 - 🏢 해동 창업 DCI 프로그램 - Dreamer 단계 선정 (Integrity)
-- 🛠️ NuriLab - NTT 도코모향 본사 AskURL 솔루션 제안을 위해 아이폰용 앱 경쟁사 제품 테스트를 위한 일본 도쿄 현지 출장 (4일)
+- 🛠️ NuriLab - NTT 도코모향 본사 AskURL 솔루션 제안 및 아이폰용 앱 경쟁사 제품 테스트를 위한 일본 도쿄 현지 출장 (4일)
 - 🧑🏻‍💻 Singularity - Developer (Swift)
 - 🏘️ DANKAN - Developer (Frontend)
 - 🧑🏻‍💻 2023/24 한양대학교 ERICA SW창업동아리 연합부회장
