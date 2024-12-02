@@ -7,7 +7,6 @@
 
 - 🛠️ NuriLab 클라우드개발팀 - Pro (Frontend)
 - 🤖 한양대학교 ERICA 인공지능학회 HYAI 학회장 (3기, 4기)
-- 📣 2024 11기 한양대학교 ERICA 휴아로 전공알림단
 
 ## 👀 MY Tech Stack ... 
 <div>
@@ -83,8 +82,9 @@
 - ⭕️ Integrity - CEO (한양대학교 ERICA 창업동아리, SW창업동아리)
 - 🏢 해동 창업 DCI 프로그램 - Dreamer 단계 선정 (Integrity)
 - 🛠️ NuriLab - NTT 도코모향 본사 AskURL 솔루션 제안 및 아이폰용 앱 경쟁사 제품 테스트를 위한 일본 도쿄 현지 출장 (4일)
-- 🍳 제 15기 한국장학재단 사회리더 대학생 멘토링 멘티 팀장 - 멘토님: (前) (유)그룹세브코리아 (Tefal) CEO
+- 🍳 제 15기 한국장학재단 사회리더 대학생 멘토링 멘티 팀장 - 멘토님: (前) (유)그룹세브코리아 (Tefal) CEO 수료
 - 🧑🏻‍💻 Singularity - Developer (Swift)
+- 📣 2024 11기 한양대학교 ERICA 휴아로 전공알림단 멘토 수료
 - 🏘️ DANKAN - Developer (Frontend)
 - 🧑🏻‍💻 2023/24 한양대학교 ERICA SW창업동아리 연합부회장
 - 💰 2024-1 한양브레인(성적우수) 학비감면 장학 대상자
