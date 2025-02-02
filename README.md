@@ -6,7 +6,7 @@
 ## 💼 My Job
 
 - 🛠️ NuriLab 클라우드개발팀 - Pro (Frontend)
-- 🔬 한양대학교 D.H.Lab (김성권 교수님) - 학부연구생
+- 🔬 한양대학교 D.H.L 김성권 교수님 연구실 - 학부연구생
 - 🤖 한양대학교 ERICA 인공지능학회 HYAI 학회장 (3기, 4기, 5기)
 
 ## 👀 MY Tech Stack ... 
