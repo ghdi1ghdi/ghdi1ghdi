@@ -81,7 +81,6 @@
 
 [2024]
 - 🏢 해동 창업 DCI 데모데이 - 참여 기업 (Integrity)
-- 💰 2025-1 한양브레인(성적우수) 학비감면 장학 대상자
 
 [2024]
 - 🚛 NGL Transportation - Mobile (Swift) (한양대학교 X NGL Transportatoin 산학연프로젝트 학부연구생)
