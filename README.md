@@ -123,7 +123,7 @@
 
 
 ## 👩🏻‍💻 Project
-- NGL GO: https://apps.apple.com/kr/app/ngl-go/id6736602948)
+- NGL GO: https://apps.apple.com/kr/app/ngl-go/id6736602948
 - ASKURL: https://askurl.io/
 
 - ASKURL Console
