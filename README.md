@@ -83,7 +83,7 @@
 - 🏢 해동 창업 DCI 데모데이 - 참여 기업 (Integrity)
 
 [2024]
-- 🚛 NGL Transportation - Mobile (Swift) (한양대학교 X NGL Transportatoin 산학연프로젝트 학부연구생)
+- 🚛 NGL Transportation - Mobile (Swift) (한양대학교 X NGL Transportatoin 산학연프로젝트 학부연구생) 
 - ⭕️ Integrity - CEO (한양대학교 ERICA 창업동아리, SW창업동아리)
 - 🏢 해동 창업 DCI 프로그램 - Dreamer 단계 선정 (Integrity)
 - 🛠️ NuriLab - NTT 도코모향 본사 AskURL 솔루션 제안 및 아이폰용 앱 경쟁사 제품 테스트를 위한 일본 도쿄 현지 출장 (4일)
@@ -120,6 +120,15 @@
 - 🙋🏻‍♂️ 2016 ~ 2021 세종시 아동 청소년 참여위원회 (홍보 부장, 서기, 위원)
 - 🎓 2015.03 ~ 2015.12 세종시 교육청 영재교육과정 수료
 - 🏫 2015.04 ~ 2016.02 도담초등학교 전교학생 부회장
+
+
+## 👩🏻‍💻 Project
+- NGL GO: https://apps.apple.com/kr/app/ngl-go/id6736602948)
+- ASKURL: https://askurl.io/
+
+- ASKURL Console
+- Nurilab Auth
+
 
 
 ## 💞️ I’m looking to collaborate on ...
