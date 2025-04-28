@@ -8,7 +8,7 @@
 - 🛠️ NuriLab 클라우드개발팀 - Pro (Frontend)
 - 🔬 한양대학교 D.H.L 김성권 교수님 연구실 - 학부연구생
 - 🤖 한양대학교 ERICA 인공지능학회 HYAI 학회장 (3기, 4기, 5기)
-
+- 📣 한양대학교 ERICA 휴아로 전공알림단 12기
 ## 👀 MY Tech Stack ... 
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
