@@ -81,6 +81,7 @@
 
 [2025]
 - 🏢 해동 창업 DCI 데모데이 - 참여 기업 (Integrity)
+- 💁🏻 제 16기 한국장학재단 사회리더 대학생 멘토링 발대식 - 멘토링 우수 사례 발표자
 
 [2024]
 - 🚛 NGL Transportation - Mobile (Swift) (한양대학교 X NGL Transportatoin 산학연프로젝트 학부연구생) 
