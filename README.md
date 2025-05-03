@@ -9,6 +9,7 @@
 - 🔬 한양대학교 D.H.L 김성권 교수님 연구실 - 학부연구생
 - 🤖 한양대학교 ERICA 인공지능학회 HYAI 학회장 (3기, 4기, 5기)
 - 📣 한양대학교 ERICA 휴아로 전공알림단 12기
+  
 ## 👀 MY Tech Stack ... 
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
@@ -82,6 +83,7 @@
 [2025]
 - 🏢 해동 창업 DCI 데모데이 - 참여 기업 (Integrity)
 - 💁🏻 제 16기 한국장학재단 사회리더 대학생 멘토링 발대식 - 멘토링 우수 사례 발표자
+- 🧠 2025년 대한뇌기능매핑학회 춘계학술대회 참관
 
 [2024]
 - 🚛 NGL Transportation - Mobile (Swift) (한양대학교 X NGL Transportatoin 산학연프로젝트 학부연구생) 
