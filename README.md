@@ -15,7 +15,7 @@
   - 🏫 [**한양대학교 ERICA 스마트융합공학부**](https://sce.hanyang.ac.kr/) 2023.03 ~ Present
 
 - **2024.02 ~ 2024.08**
-  - 🪐 **(주) Singularity 창업** · **iOS Developer**
+  - 🪐 [**(주) Singularity 창업**](https://www.instagram.com/singularity.corp?igsh=b2l6bTZmam03ejYz) · **iOS Developer**
   - 🌱 **[Integrity 창업동아리](https://eec.hanyang.ac.kr/front/ko/support/club/club/read?id=dB1c0EVlT2O0eTKWldY7UQ&dataPerPage=12&grpIdList=b57TqDu3Tc2qdMQh4ioL8w&page=7&showNow=true&sort=UPDATED_AT_DESC&stateList=PERMIT)** · **대표**
 
 - **2024.04 ~ 2024.07**
@@ -23,7 +23,7 @@
   *(한양대학교 X NGL Transportation 산학연 프로젝트)* 
 
 - **2022.03 ~ 2022.09**
-  - 📔 **국립 한밭대학교 김효은 교수님 연구소** · **연구 조교** 
+  - 📔 [**국립 한밭대학교 김효은 교수님 연구소**](https://sites.google.com/view/hyoeunclairekim/home?authuser=0) · **연구 조교** 
   
 ## 👀 My Tech Stack
 - **Languages**  
