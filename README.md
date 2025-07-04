@@ -1,81 +1,79 @@
-# 👋 Hi, I’m Jay @ghdi1ghdi
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghdi1ghdi%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# 👋 Hi, I’m Jay @ghdi1ghdi  
 
 # Connection Makes Perfection.
 
 ## 💼 My Job
+- **Present**
+  - 🛠️ [**(주) 누리랩**](https://www.nurilab.com/kr/index.html) · **Frontend Developer (클라우드개발팀 - PRO)** 2024.08 ~ Present
 
-- 🛠️ NuriLab 클라우드개발팀 - Pro (Frontend)
-- 🔬 한양대학교 D.H.L 김성권 교수님 연구실 - 학부연구생
-- 🤖 한양대학교 ERICA 인공지능학회 HYAI 학회장 (3기, 4기, 5기)
-- 📣 한양대학교 ERICA 휴아로 전공알림단 12기
+  - 🔬 [**한양대학교 D.H.L 김성권 교수님 연구실**](https://dhl.hanyang.ac.kr/main/main.html) · **학부연구생** 2025.01 ~ Present
+
+  - 🤖 [**한양대학교 ERICA 인공지능학회 HYAI**](https://www.instagram.com/hanyang.ai/) · **학회장 (3기 ~ 6기)** 2024.01 ~ Present
+
+  - 📣 [**한양대학교 ERICA 휴아로 전공알림단**](https://www.instagram.com/hyuaro_erica?igsh=MWpyaGdrMnQ2bGIx) · **11기 ~ 12기** 2024.01 ~ Present
+
+  - 🏫 [**한양대학교 ERICA 스마트융합공학부**](https://sce.hanyang.ac.kr/) 2023.03 ~ Present
+
+- **2024.02 ~ 2024.08**
+  - 🪐 **(주) Singularity 창업** · **iOS Developer**
+  - 🌱 **[Integrity 창업동아리](https://eec.hanyang.ac.kr/front/ko/support/club/club/read?id=dB1c0EVlT2O0eTKWldY7UQ&dataPerPage=12&grpIdList=b57TqDu3Tc2qdMQh4ioL8w&page=7&showNow=true&sort=UPDATED_AT_DESC&stateList=PERMIT)** · **대표**
+
+- **2024.04 ~ 2024.07**
+  - 🚛 [**NGL Transportation**](https://ngltrans.com/) · **iOS Developer (Mobile)**  
+  *(한양대학교 X NGL Transportation 산학연 프로젝트)* 
+
+- **2022.03 ~ 2022.09**
+  - 📔 **국립 한밭대학교 김효은 교수님 연구소** · **연구 조교** 
   
-## 👀 MY Tech Stack ... 
-<div>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white">
-</div>
-<br>
-<div>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white">
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white">
+## 👀 My Tech Stack
+- **Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white)
 
-<div>
-<br>
-<img src="https://img.shields.io/badge/Apple-000000?style=flat&logo=Apple&logoColor=white">
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">
-</div>
-<br>
-<div>
-<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=TypeScript&logoColor=white"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-01c180?style=flat&logo=Vue.js&logoColor=white">
+- **AI & ML**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=Google%20Colab&logoColor=white)
 
-</div>
-<!-- <br>
-<div>
-<img src="https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=Blockchain.com&logoColor=white">
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white">
-</div> -->
+- **iOS Development**  
+![Apple](https://img.shields.io/badge/Apple-000000?style=flat&logo=Apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white)
+
+- **Frontend Development**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=TypeScript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-01c180?style=flat&logo=Vue.js&logoColor=white)
 
 ## 🏆 Awards
 
-[2024]
-- 🎖️ 제 85주년 한양대학교 개교기념식 학생 공로상 한양대학교 총장상
-- 🎖️ 2024 한양대학교 ERICA SW창업동아리 창업우수상 한양대학교 ERICA SW중심대학사업단장상
-- 🎖️ 2024 - 1학기 SID AUDITION 원페이퍼 창업 아이디어 경진대회 SID상 한양대학교 ERICA 창업교육센터장상
-- 🎖️ 2024 한양대학교 ERICA SW창업동아리 우수 SW창업동아리 선정
-
-[2023]
 - 🥇 2023 국민 안전 발명 챌린지 대국민 부분 경찰청 과제 최우수상 특허청장상 (1위)
 - 🥈 2023 제 10회 대한민국 SW 융합 해커톤 자유주제 부분 우수상 세종특별자치시장상 (공동 2위) (서울 지역 대표)
 - 🥈 2023 한양대학교 ERICA 창업 경진 대회 학생부 우수상 한양대학교 ERICA LINC 3.0 사업단장상 (2위)
+- 🥇 2020 제 3회 세종 해커톤 대회 최우수상 세종시 교육감상 (1위)
 - 🥈 2023 제 11회 SW 창업 아이디어톤 최우수상 한양대학교 총장상 (2위)
-- 🎖 2023 Stand by you Makeaton 수료 및 장려상 (주) 공생 대표이사 및 한밭대학교 대학혁신단장상 (4위)
+- 🎖️ 2024 제 85주년 한양대학교 개교기념식 학생 공로상 한양대학교 총장상
 - 🎖️ 2023 - 1학기 SID AUDITION 원페이퍼 창업 아이디어 경진대회 SID상 한양대학교 ERICA 창업교육센터장상
 - 🎖️ 2023 - 2학기 SID AUDITION 원페이퍼 창업 아이디어 경진대회 SID상 한양대학교 ERICA 창업교육센터장상
+- 🎖️ 2024 - 1학기 SID AUDITION 원페이퍼 창업 아이디어 경진대회 SID상 한양대학교 ERICA 창업교육센터장상
+- 🎖️ 2024 한양대학교 ERICA SW창업동아리 창업우수상 한양대학교 ERICA SW중심대학사업단장상
 - 🎖️ 2023 한양대학교 ERICA SW창업동아리 우수 SW창업동아리 선정
-- 🎖️ 2023 (주) 월드클래스 에듀케이션 스피치 라이팅 공모전 장려상
-
-[2022]
+- 🎖️ 2024 한양대학교 ERICA SW창업동아리 우수 SW창업동아리 선정
+- 🥈 2022 한밭대학교 1학기 우수 학습동아리 우수상 한밭대학교 교수학습센터장상 (2위)
+- 🥈 2022 한밭대학교 2학기 우수 학습동아리 우수상 한밭대학교 교수학습센터장상 (2위) 
 - 🎖️ 2022 국가 위기 관련 디지털 기반 위기대응 공모전 우수 사례 등극
 - 🥉 2022 한밭대학교 포트폴리오 대회 동상 한밭대학교 교육혁신단장상 (3위)
-- 🥈 2022 한밭대학교 1, 2학기 우수 학습동아리 우수상 한밭대학교 교수학습센터장상 (2위)
-- 🥇 2022 도담고등학교 특기상 도담고등학교장상
-
-[~2021]
-- 🥇 2020 제 3회 세종 해커톤 대회 최우수상 세종시 교육감상 (1위)
-- 🥉 2017 제 2회 국립공원사랑 전국 프레젠테이션 대회 우수상 국립공원관리공단이사장상 (3위)
+- 🎖 2023 Stand by you Makeaton 수료 및 장려상 (주) 공생 대표이사 및 한밭대학교 대학혁신단장상 (4위)
+- 🎖️ 2023 (주) 월드클래스 에듀케이션 스피치 라이팅 공모전 장려상
 - 🎖 2016 모범어린이 표창 세종특별자치시장상
+- 🥉 2017 제 2회 국립공원사랑 전국 프레젠테이션 대회 우수상 국립공원관리공단이사장상 (3위)
 - 🥇 2021 나의 꿈 발표 대회 금상 도담고등학교장상 (1위)
-
+- 🥇 2022 도담고등학교 특기상 도담고등학교장상
 
 
 ## 🧑🏻‍💻 career
@@ -83,7 +81,8 @@
 [2025]
 - 🏢 해동 창업 DCI 데모데이 - 참여 기업 (Integrity)
 - 💁🏻 제 16기 한국장학재단 사회리더 대학생 멘토링 발대식 - 멘토링 우수 사례 발표자
-- 🧠 2025년 대한뇌기능매핑학회 춘계학술대회 참관
+- 🧠 2025 대한뇌기능매핑학회 춘계학술대회 참관
+- 💤 2025 대한수면연구학회 정기학술대회 참관
 
 [2024]
 - 🚛 NGL Transportation - Mobile (Swift) (한양대학교 X NGL Transportatoin 산학연프로젝트 학부연구생) 
@@ -163,4 +162,3 @@
 ghdi1ghdi/ghdi1ghdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
