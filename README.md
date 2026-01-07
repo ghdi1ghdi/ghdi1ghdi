@@ -8,11 +8,11 @@
 
   - 🔬 [**한양대학교 D.H.L 김성권 교수님 연구실**](https://dhl.hanyang.ac.kr/main/main.html) · **학부연구생** 2025.01 ~ Present
 
-  - 🤖 [**한양대학교 ERICA 인공지능학회 HYAI**](https://www.instagram.com/hanyang.ai/) · **학회장 (3기 ~ 6기)** 2024.01 ~ Present
-
-  - 📣 [**한양대학교 ERICA 휴아로 전공알림단**](https://www.instagram.com/hyuaro_erica?igsh=MWpyaGdrMnQ2bGIx) · **11기 ~ 12기** 2024.01 ~ Present
-
   - 🏫 [**한양대학교 ERICA 스마트융합공학부**](https://sce.hanyang.ac.kr/) 2023.03 ~ Present
+ 
+- **2024.01 ~ 2026.01**
+  - 🤖 [**한양대학교 ERICA 인공지능학회 HYAI**](https://www.instagram.com/hanyang.ai/) · **학회장 (3기 ~ 6기)** 
+  - 📣 [**한양대학교 ERICA 휴아로 전공알림단**](https://www.instagram.com/hyuaro_erica?igsh=MWpyaGdrMnQ2bGIx) · **11기 ~ 12기**
 
 - **2024.02 ~ 2024.08**
   - 🪐 [**(주) Singularity 창업**](https://www.instagram.com/singularity.corp?igsh=b2l6bTZmam03ejYz) · **iOS Developer**
@@ -88,6 +88,7 @@
 - 🧠 2025 대한뇌기능매핑학회 춘계학술대회 참관
 - 💤 2025 대한수면연구학회 정기학술대회 참관
 - 💁🏻 2025.11.27 단국대학교 죽전캠퍼스 경상학회 INTEGRITY 인공지능 (xAI) 강연
+- 💰 2025-2 한양대학교 학부 연구·산학 장학금 대상자
 
 [2024]
 - 🚛 NGL Transportation - Mobile (Swift) (한양대학교 X NGL Transportatoin 산학연프로젝트 학부연구생) 
@@ -127,7 +128,6 @@
 - 🙋🏻‍♂️ 2016 ~ 2021 세종시 아동 청소년 참여위원회 (홍보 부장, 서기, 위원)
 - 🎓 2015.03 ~ 2015.12 세종시 교육청 영재교육과정 수료
 - 🏫 2015.04 ~ 2016.02 도담초등학교 전교학생 부회장
-
 
 ## 👩🏻‍💻 Project
 - NGL GO: https://apps.apple.com/kr/app/ngl-go/id6736602948
