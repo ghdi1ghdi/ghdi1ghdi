@@ -4,7 +4,7 @@
 
 ## 💼 My Job
 - **Present**
-  - 🛠️ [**(주) 누리랩**](https://www.nurilab.com/kr/index.html) · **Frontend Developer (클라우드개발팀 - PRO)** 2024.08 ~ Present
+  - 🛠️ [**(주) 누리랩**](https://www.nurilab.com/kr/index.html) · **Frontend Developer (서비스개발센터 - PRO)** 2024.08 ~ Present
 
   - 🔬 [**한양대학교 D.H.L 김성권 교수님 연구실**](https://dhl.hanyang.ac.kr/main/main.html) · **학부연구생** 2025.01 ~ Present
 
