@@ -4,23 +4,29 @@
 
 ## 💼 My Job
 - **Present**
-  - 🛠️ [**(주) 누리랩**](https://www.nurilab.com/kr/index.html) · **Frontend Developer (서비스개발센터 - PRO)** 2024.08 ~ Present
+  - 🏫 [**한양대학교 일반대학원 인공지능융합학과**](http://aia.hanyang.ac.kr/)· **석박통합과정 (2026.02 ~ Present)**
+  - 🔬 [**한양대학교 D.H.L 김성권 교수님 연구실**](https://dhl.hanyang.ac.kr/main/main.html) · **석박통합과정 (2026.02 ~ Present)**
 
-  - 🔬 [**한양대학교 D.H.L 김성권 교수님 연구실**](https://dhl.hanyang.ac.kr/main/main.html) · **학부연구생** 2025.01 ~ Present
-
-  - 🏫 [**한양대학교 ERICA 스마트융합공학부**](https://sce.hanyang.ac.kr/) 2023.03 ~ Present
- 
 - **2024.01 ~ 2026.01**
   - 🤖 [**한양대학교 ERICA 인공지능학회 HYAI**](https://www.instagram.com/hanyang.ai/) · **학회장 (3기 ~ 6기)** 
   - 📣 [**한양대학교 ERICA 휴아로 전공알림단**](https://www.instagram.com/hyuaro_erica?igsh=MWpyaGdrMnQ2bGIx) · **11기 ~ 12기**
+
+- **2023.03 ~ 2026.02**
+  - 🏫 [**한양대학교 ERICA 스마트융합공학부**](https://sce.hanyang.ac.kr/) 우수 졸업 (GPA 4.06)
 
 - **2024.02 ~ 2024.08**
   - 🪐 [**(주) Singularity 창업**](https://www.instagram.com/singularity.corp?igsh=b2l6bTZmam03ejYz) · **iOS Developer**
   - 🌱 **[Integrity 창업동아리](https://eec.hanyang.ac.kr/front/ko/support/club/club/read?id=dB1c0EVlT2O0eTKWldY7UQ&dataPerPage=12&grpIdList=b57TqDu3Tc2qdMQh4ioL8w&page=7&showNow=true&sort=UPDATED_AT_DESC&stateList=PERMIT)** · **대표**
 
+- **2024.08 ~ 2026.02**
+  - 🛠️ [**(주) 누리랩**](https://www.nurilab.com/kr/index.html) · **Frontend Developer (서비스개발센터 - PRO)**
+
 - **2024.04 ~ 2024.07**
   - 🚛 [**NGL Transportation**](https://ngltrans.com/) · **iOS Developer (Mobile)**  
-  *(한양대학교 X NGL Transportation 산학연 프로젝트)* 
+  *(한양대학교 X NGL Transportation 산학연 프로젝트)*
+
+- **2025.01 ~ 2026.02**
+  - 🔬 [**한양대학교 D.H.L 김성권 교수님 연구실**](https://dhl.hanyang.ac.kr/main/main.html) · **학부연구생**
 
 - **2022.03 ~ 2022.09**
   - 📔 [**국립 한밭대학교 김효은 교수님 연구소**](https://sites.google.com/view/hyoeunclairekim/home?authuser=0) · **연구 조교** 
@@ -58,6 +64,7 @@
 - 🥇 2020 제 3회 세종 해커톤 대회 최우수상 세종시 교육감상 (1위)
 - 🥈 2023 제 11회 SW 창업 아이디어톤 최우수상 한양대학교 총장상 (2위)
 - 🎖️ 2024 제 85주년 한양대학교 개교기념식 학생 공로상 한양대학교 총장상
+- 🎖️ 2026 한양대학교 학위수여식 학생 공로상 한양대학교 총장상
 - 🎖️ 2025 한양대학교 SW/ICT/AI 종합학술대회 (L. Paper To Code Challenge 세션) 최우수상 한양대학교 총장상
 - 🎖️ 2025 한양대학교 제5회 스마트융합공학부 졸업 전시회 (Intersection of Void) 스마트ICT융합전공 우수상
 - 🎖️ 2025 제19회 학생포트폴리오 경진대회 4분야 한국공과대학장협의회장상
